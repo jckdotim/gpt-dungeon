@@ -1,0 +1,17 @@
+---
+title: The Potion Room
+opening_novel: >
+  As Harry delved deeper into the labyrinth, he found the walls etched with strange symbols and runes that seemed to emanate a faint, eerie glow.
+  The dungeon grew colder and darker, but Harry pressed on, using his knowledge of spells to overcome the fearsome monsters that stood in his way.
+dungeon_map: |
+  ############
+  #@1...1...c#
+  ###.#..#..##
+  #...#.######
+  #.#.#...1.#
+  #.#.###.####
+  #1..#.#...#
+  ############
+ending_novel: >
+  You've successfully found the potion and unlocked the path. As the secret door
+  opens, you step into a room filled with magical creatures.

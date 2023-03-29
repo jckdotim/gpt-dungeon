@@ -1,0 +1,19 @@
+---
+title: The Forbidden Corridor
+opening_novel: >
+  It was a dark and stormy night at Hogwarts School of Witchcraft and Wizardry. Harry Potter had discovered a hidden dungeon entrance beneath the school, which led to a mysterious, uncharted labyrinth.
+  Harry, with his wand in hand, decided to explore the dungeon, seeking answers to the secrets hidden within. Unbeknownst to him, dark creatures and powerful spells guarded the subterranean chambers.
+
+dungeon_map: |
+  ############
+  #@0..0...b.#
+  #.#.#..#...#
+  #.#.######.#
+  #.#.#..0...#
+  #.#.###.####
+  #...#.#..0#
+  ############
+
+ending_novel: >
+  Overcoming the monsters guarding the exit, Harry stumbles upon an enchanted artifact.
+  The artifact turns out to be a powerful wand that belonged to a legendary wizard.

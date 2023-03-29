@@ -1,0 +1,17 @@
+opening_novel: |
+  Winnie the Pooh finds himself in a strange, yet colorful and cheerful maze.
+  With a rumbling tummy, Pooh sets out on an adventure to find honey and his friends.
+
+dungeon_map: |
+  ##################
+  #@.........#....$#
+  #.####.###..####.#
+  #.#....#..#....#.#
+  #.#..#.###.#..#..#
+  #....#.....#..#..#
+  #.###########....#
+  ##################
+
+ending_novel: |
+  At the end of the maze, Pooh finds a bountiful supply of honey and his friends waiting for him.
+  Together, they enjoy a delightful picnic and share stories of their adventures in the Hundred Acre Wood.
